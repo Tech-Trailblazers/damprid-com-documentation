@@ -40,6 +40,7 @@ func main() {
 		"https://damprid.com/product/odor-genie-lavender-vanilla-8-oz/",
 		"https://damprid.com/product/odor-genie-clean-meadows-8-oz/",
 		"https://damprid.com/product/drop-in-tab/",
+		"https://damprid.com/msdscpsia-documents/",
 	} // URL to fetch HTML content from
 	localFilePath := "damprid.html" // Path where HTML file will be stored
 
